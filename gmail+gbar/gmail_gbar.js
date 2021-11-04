@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Basic gmail gbar
-// @version      0.4
+// @name         Basic gmail gbar (version A)
+// @version      0.5
 // @description  Changes the Basic Gmail bar to 2012 Gmail
 // @author       Ian Hiew
 // @match        *://mail.google.com/*
